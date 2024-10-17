@@ -7,3 +7,5 @@ Intended for use with [modern-normalize](https://github.com/sindresorhus/modern-
 import 'modern-normalize.css';
 import 'app.css';
 ```
+
+It also uses [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif), which is available from Google fonts
