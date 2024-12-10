@@ -8,4 +8,4 @@ import 'modern-normalize.css';
 import 'app.css';
 ```
 
-It also uses [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif), which is available from Google fonts
+It also uses [IBM Plex Serif](https://fonts.google.com/specimen/IBM+Plex+Serif), which is available from Google fonts (or [Bunny](https://bunny.net/), etc.)
